@@ -5,4 +5,4 @@ function X = FindBestSpectralApprox(M, lambda)
     s(s>lambda)=lambda;
     X=u*s*v';
 end
-    1
+    
